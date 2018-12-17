@@ -10,7 +10,7 @@ Both these functions have not been used. It was used for experiment.
 dependency_parse() is used to create files required for constructing dependency
 tree used in semantic relatedness.
 
-constituency_tree() is used to created files required for constructing constituency
+constituency_tree() is used to create files required for constructing constituency
 tree used in sentiment classification. Here it is not used as the tree is directly
 constructed from a file in setiment tree bank.
 **************************************************************************************************
