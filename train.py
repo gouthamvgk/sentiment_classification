@@ -7,7 +7,7 @@ import torch.optim as optim
 import torch.nn.functional as F
 import time
 
-from model_utils import vocab
+from model_utils import vocab, Tree
 from create_vocab_embed import build_vocabulary, create_glove_vocab, create_embedding_vector
 from dataset_gen import dataset_generator
 from train_object import model_trainer
